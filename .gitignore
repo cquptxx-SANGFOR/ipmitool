@@ -9,6 +9,7 @@
 *.lo
 *.la
 *.*~
+.vscode/
 Makefile
 Makefile.in
 aclocal.m4
